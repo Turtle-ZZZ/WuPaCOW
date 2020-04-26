@@ -1,2 +1,2 @@
 # WuPaCOW
-In The Name Of Elliot
+In The Name Of ...
